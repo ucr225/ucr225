@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there! 👋
+I’m Uriel Cáceres, a passionate junior developer with experience in systems engineering and data analysis. Here’s a bit more about me:
 
-<!--
-**ucr225/ucr225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on exciting projects involving Hadoop, Python, Java, CSS, HTML, and Bootstrap.
+🌱 I’m always learning and exploring new technologies.
+📊 Data analysis and big data are my areas of interest.
+🐘 I love working with Hadoop and exploring large datasets.
+🐍 Python is my go-to language for scripting and data manipulation.
+☕ Java is my choice for building robust applications.
+🎨 I enjoy creating responsive web designs using CSS and HTML.
+🅱️ Bootstrap helps me build beautiful and user-friendly interfaces.
+🍃 MongoDB is my preferred NoSQL database.
+🚀 JavaScript powers my interactive web applications.
+Languages
+I speak Spanish, English, and German.
 
-Here are some ideas to get you started:
+Experience
+I have experience with various programming languages and data structures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact Me
+Feel free to connect with me on LinkedIn or email me at caceresuriel22j@gmail.com.
+
+Thanks for visiting my GitHub profile! 😊
