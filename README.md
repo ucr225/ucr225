@@ -18,6 +18,6 @@ Experience
 I have experience with various programming languages and data structures.
 
 Contact Me
-Feel free to connect with me on LinkedIn or email me at caceresuriel22j@gmail.com.
+Feel free to connect with me on LinkedIn   ---->  www.linkedin.com/in/uriel-caceres or email me at ----> caceresuriel22j@gmail.com.
 
 Thanks for visiting my GitHub profile! 😊
