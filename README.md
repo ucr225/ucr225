@@ -124,10 +124,8 @@ Ich bin Systemtechnik-Student (9. Semester) mit Erfahrung in **Full Stack Develo
 
 ---
 
-### ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+
 
 [![](https://visitcount.itsvg.in/api?id=urielcaceres&icon=0&color=0)](https://visitcount.itsvg.in)
 
