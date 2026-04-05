@@ -8,7 +8,7 @@
 ## English
 
 👋 Hi, I'm **Uriel Caceres**!  
-I'm a Systems Engineering student (9th semester) with a passion for **Full Stack Development**, **Data Science**, and **Big Data**. I love building scalable web applications and extracting insights from complex datasets. Always learning something new every day!
+I'm a Systems Engineering student (last semester) with a passion for **Full Stack Development**, **Data Science**, and **Big Data**. I love building scalable web applications and extracting insights from complex datasets. Always learning something new every day!
 
 ### 🎓 Education
 - **Systems Engineering** | Universidad Santa María (2021 - Present)
@@ -28,7 +28,7 @@ I'm a Systems Engineering student (9th semester) with a passion for **Full Stack
 ## Español
 
 👋 ¡Hola, soy **Uriel Caceres**!  
-Soy estudiante de Ingeniería en Sistemas (9no semestre) con experiencia en **Desarrollo Full Stack**, **Ciencia de Datos** y **Big Data**. Me apasiona construir aplicaciones web escalables y extraer información valiosa de conjuntos de datos complejos. ¡Siempre aprendiendo algo nuevo cada día!
+Soy estudiante de Ingeniería en Sistemas (ultimo  semestre) con experiencia en **Desarrollo Full Stack**, **Ciencia de Datos** y **Big Data**. Me apasiona construir aplicaciones web escalables y extraer información valiosa de conjuntos de datos complejos. ¡Siempre aprendiendo algo nuevo cada día!
 
 ### 🎓 Educación
 - **Ingeniería en Sistemas** | Universidad Santa María (2021 - Presente)
@@ -48,7 +48,7 @@ Soy estudiante de Ingeniería en Sistemas (9no semestre) con experiencia en **De
 ## Deutsch
 
 👋 Hallo, ich bin **Uriel Caceres**!  
-Ich bin Systemtechnik-Student (9. Semester) mit Erfahrung in **Full Stack Development**, **Data Science** und **Big Data**. Ich liebe es, skalierbare Webanwendungen zu erstellen und Erkenntnisse aus komplexen Datensätzen zu gewinnen. Jeden Tag lerne ich etwas Neues!
+Ich bin Systemtechnik-Student (letzte Semester) mit Erfahrung in **Full Stack Development**, **Data Science** und **Big Data**. Ich liebe es, skalierbare Webanwendungen zu erstellen und Erkenntnisse aus komplexen Datensätzen zu gewinnen. Jeden Tag lerne ich etwas Neues!
 
 ### 🎓 Ausbildung
 - **Systemtechnik** | Universidad Santa María (2021 - Heute)
